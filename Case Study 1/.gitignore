@@ -1,0 +1,29 @@
+# ── Large data files (too big for GitHub's 100 MB limit) ──
+*.csv
+*.xlsx
+*.parquet
+*.feather
+cyclistic_2026_q1_data/
+
+# ── Python virtual environment ──
+venv/
+.venv/
+env/
+__pycache__/
+*.py[cod]
+*.pyo
+.Python
+
+# ── Jupyter notebook checkpoints ──
+.ipynb_checkpoints/
+
+# ── OS & editor noise ──
+.DS_Store
+Thumbs.db
+desktop.ini
+.idea/
+.vscode/
+*.swp
+
+# ── Streamlit cache ──
+.streamlit/

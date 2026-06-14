@@ -1,0 +1,130 @@
+Case Study Roadmap - Ask
+Guiding questions
+● What is the problem you are trying to solve?
+Cyclistic wants to know how casual riders differ from Members and what marketing strategies they can apply to convert casual riders to members.
+● How can your insights drive business decisions?
+Insights gotten from this study will help the marketing team know what strategies they can apply to convert casual riders to members and how they can apply them.
+Key tasks
+● Identify the business task
+Analysis of the cyclistic dataset to extract insights on rider patterns
+● Consider key stakeholders
+Cyclistic Marketing and Analytics Team
+Lily Moreno: The director of marketing and your manager.
+Cyclistic Executive Team
+Deliverable
+● A clear statement of the business task
+Analyze customer data (customer segmentation) and deliver insights to aid the marketing team
+Case Study Roadmap - Prepare
+Guiding questions
+● Where is your data located?
+https://divvy-tripdata.s3.amazonaws.com/index.html
+For this study, I will be using the Cyclistic 2026 Q1 data spanning from January to April
+● How is the data organized?
+Data is in csv format
+Columns
+Data Type
+Ride_id
+object
+Rideable_type
+object
+Started_at
+datetime
+Ended_at
+datetime
+Start_station_name
+object
+Start_station_id
+object
+End_station_name
+object
+End_station_id
+object
+Start_lat
+float
+Start_lng
+float
+End_lat
+float
+End_lng
+float
+Member_casual
+object
+● Are there issues with bias or credibility in this data? Does your data ROCCC?
+ROCCC
+Reliability: The dataset was provided by the instructors in the Google DA course
+Originality: Cyclistic bike data (fictional, but the data is updated)
+Comprehensive: The dataset is easy to read and understand
+Cited: This is part of a public course, so multipe citation is assumed.
+Current: I’m using the data for 2026 Q1
+● How are you addressing licensing, privacy, security, and accessibility?
+The dataset is stored locally on my PC, and google drive. There were no passwords set since this is a personal project
+● How did you verify the data’s integrity?
+The dataset was provided by the instructors in the Google DA course
+● How does it help you answer your question?
+The dataset helps me to see the customer data and extract insights for the analytics team
+● Are there any problems with the data?
+None that I can think of, for now…..
+Key tasks
+● Download data and store it appropriately.
+● Identify how it’s organized.
+● Sort and filter the data.
+● Determine the credibility of the data.
+Deliverable
+● A description of all data sources used
+Case Study Roadmap - Process
+Guiding questions
+● What tools are you choosing and why?
+● Have you ensured your data’s integrity?
+● What steps have you taken to ensure that your data is clean?
+● How can you verify that your data is clean and ready to analyze?
+● Have you documented your cleaning process so you can review and share those
+results?
+Key tasks
+● Check the data for errors.
+● Choose your tools.
+● Transform the data so you can work with it effectively.
+● Document the cleaning process.
+Deliverable
+● Documentation of any cleaning or manipulation of data
+Case Study Roadmap - Analyze
+Guiding questions
+● How should you organize your data to perform analysis on it?
+● Has your data been properly formatted?
+● What surprises did you discover in the data?
+● What trends or relationships did you find in the data?
+● How will these insights help answer your business questions?
+Key tasks
+● Aggregate your data so it’s useful and accessible.
+● Organize and format your data.
+● Perform calculations.
+● Identify trends and relationships.
+Deliverable
+● A summary of your analysis
+Case Study Roadmap - Share
+Guiding questions
+● Were you able to answer the question of how annual members and casual riders use
+Cyclistic bikes differently?
+● What story does your data tell?
+● How do your findings relate to your original question?
+● Who is your audience? What is the best way to communicate with them?
+● Can data visualization help you share your findings?
+● Is your presentation accessible to your audience?
+Key tasks
+● Determine the best way to share your findings.
+● Create effective data visualizations.
+● Present your findings.
+● Ensure your work is accessible.
+Deliverable
+● Supporting visualizations and key findings
+Case Study Roadmap - Act
+Guiding questions
+● What is your final conclusion based on your analysis?
+● How could your team and business apply your insights?
+● What next steps would you or your stakeholders take based on your findings?
+● Is there additional data you could use to expand on your findings?
+Key tasks
+● Create your portfolio.
+● Add your case study.
+● Practice presenting your case study to a friend or family member.
+Deliverable
+● Your top three recommendations based on your analysis

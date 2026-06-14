@@ -1,0 +1,10 @@
+# Cyclistic Q1 2026 Dashboard — Dependencies
+# Install with: pip install -r requirements.txt
+
+# Core data & visualisation
+pandas>=1.4.0
+numpy>=1.23
+plotly>=5.18.0
+
+# Streamlit & its required extras
+streamlit>=1.35.0
